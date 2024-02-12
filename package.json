@@ -28,7 +28,7 @@
     "@melonjs/debug-plugin": "^14.5.2",
     "core-js": "^3.30.1",
     "css-loader": "^6.7.3",
-    "melonjs": "^15.1.5",
+    "melonjs": "^16.1.2",
     "style-loader": "^3.3.2"
   }
 }
